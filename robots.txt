@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rfunes92.github.io/blaze-electric-preview/sitemap.xml
